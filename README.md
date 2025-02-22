@@ -7,6 +7,7 @@ about the cluster status, kubernetes version and cluster endpoint.
 
 I also used Terraform to create the EKS Cluster itself.
 
+Documentation: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/eks.html
 ## What I Did
 
 1.  **EKS Cluster Setup:** I created the EKS cluster using Terraform.
@@ -61,3 +62,5 @@ for cluster in clusters:
 ```
 
 ![output](https://github.com/Princeton45/python-eks-monitor/blob/main/images/output.png)
+
+Documentation: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/eks.html
